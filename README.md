@@ -16,8 +16,6 @@ Hey there! I'm Seweryn, a passionate programmer with a penchant for all things e
 
 ## Let's Connect!
 
-Let's Connect!
-
-🌐 Visit my personal website to learn more about my work and explore my portfolio.
+🌐 Visit my personal website to learn more about my work and explore my portfolio. (still in development)
 
 📫 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always excited to collaborate on new projects and connect with fellow coding enthusiasts.
