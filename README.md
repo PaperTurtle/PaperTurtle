@@ -7,8 +7,9 @@
 
 Hey there! I'm Seweryn, a passionate programmer with a penchant for all things eccentric and a deep love for web development. If you're wondering why turtles are mentioned in the same breath as code, well, I'll let you in on a little secret - turtles are my spirit animal 🐢❤️! Just like these shelled creatures, I take life at my own pace, methodically navigating through the vast digital oceans of code.
 
+<div width="200px" height="200px">
 ![turtle-shower](https://github.com/PaperTurtle/PaperTurtle/assets/68080844/caf5f508-5927-4343-a80b-40ee11a23df6)
-
+</div>
 ## Here's what you can expect to find in my GitHub garden:
 
 🌐 **Web Wizardry:** I specialize in crafting captivating web experiences. From front-end magic with React and Next to the server-side wonders of Node.js and Python, I'm always weaving spells to make the web a more enchanting place.
