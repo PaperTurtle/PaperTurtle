@@ -1,7 +1,7 @@
 <h1 align="center">🐢 Seweryn Czabanowski 🐢</h1>
-
+<p align="center">
 <img src="https://github.com/PaperTurtle/PaperTurtle/assets/68080844/6cb4f511-a5eb-4269-8dca-d4dc84dfa02c" alt="cute turtle img" align="center" height="480px"/>
-
+</p>
 ## 🌟 Welcome to My Digital Oasis! 🌟
 
 👋 Hey there! I'm Seweryn, a tech enthusiast with a flair for the unique. Wondering about the turtles? They're not just a random choice. Turtles resonate with my spirit, symbolizing patience, resilience, and a calm approach to life's challenges - much like my approach to coding.
