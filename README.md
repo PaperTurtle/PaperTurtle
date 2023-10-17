@@ -1,14 +1,12 @@
 <h1 align="center">🐢 Seweryn Czabanowski 🐢</h1>
 
-<div align="center">
 <h3><code>Software Engineer and Web Developer</code></h3>
 <img src="https://github.com/PaperTurtle/PaperTurtle/assets/68080844/fed27094-b9f3-4364-b09f-bada8694819d" alt="cute turtle img" width="250px" height="250px"/>
-</div>
 ## 🐢 Welcome to My Code Oasis! 🚀
 
 Hey there! I'm Seweryn, a passionate programmer with a penchant for all things eccentric and a deep love for web development. If you're wondering why turtles are mentioned in the same breath as code, well, I'll let you in on a little secret - turtles are my spirit animal 🐢❤️! Just like these shelled creatures, I take life at my own pace, methodically navigating through the vast digital oceans of code.
 
-![https://tenor.com/bdrrg.gif]
+![https://tenor.com/bdrrg.gif]()
 
 ## Here's what you can expect to find in my GitHub garden:
 
