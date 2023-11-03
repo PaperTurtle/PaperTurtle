@@ -5,15 +5,7 @@
 
 <h2 align="center">🌟 Welcome to My Digital Oasis! 🌟</h2>
 
-👋 Hey there! I'm Seweryn, a tech enthusiast with a flair for the unique. Wondering about the turtles? They're not just a random choice. Turtles resonate with my spirit, symbolizing patience, resilience, and a calm approach to life's challenges - much like my approach to coding.
-
-<h2 align="center">🔍 What's in My GitHub Garden? 🌱</h2>
-
-🌐 **Web Wizardry:** Dive into my web projects where I blend the art of React, Next.js, Node.js, and Python to craft mesmerizing digital experiences.
-
-🚀 **Eccentric Endeavors:** My coding journey is filled with unexpected twists and turns. I believe in breaking the mold, constantly exploring, and letting my creativity run wild.
-
-🐢 **Turtle Admirer:** Yes, I adore turtles! They epitomize qualities I hold dear. Plus, who can resist their charm?
+👋 Hey there! I'm Seweryn, a tech enthusiast with a flair for the unique and your local crazy polish man. I also like turtles ... a lot.
 
 <h2 align="center">Languages and Tools</h2>
 
