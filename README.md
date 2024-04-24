@@ -1,7 +1,4 @@
 <h1 align="center">🐢 Seweryn Czabanowski 🐢</h1>
-<p align="center">
-<img src="https://github.com/PaperTurtle/PaperTurtle/assets/68080844/6cb4f511-a5eb-4269-8dca-d4dc84dfa02c" alt="cute turtle img" align="center" height="480px"/>
-</p>
 
 <h2 align="center">🌟 Welcome to My Digital Oasis! 🌟</h2>
 
